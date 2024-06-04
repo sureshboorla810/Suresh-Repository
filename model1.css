@@ -1,0 +1,21 @@
+div{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+
+    /* margin: 50px;
+    margin: 40px;
+    margin: 50px;
+    margin: 40px; */
+
+    /* margin: 40px 50px; */
+    padding: 20px;
+}
+.middle-box{
+    margin-left: 260px;
+    border: 20px solid red;
+}
+.bottom-box{
+    margin-left: 540px;
+}

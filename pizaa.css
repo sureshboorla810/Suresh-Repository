@@ -1,0 +1,35 @@
+/* tag base selector */
+h1{
+    color: red;
+    font-size: 50px;
+    background-color: black;
+}
+h3:hover{
+    font-size: 40px;
+}
+p{
+    background-color: olive; 
+ }
+/* class bass seloctor  */
+h3{
+    background-color: blue;
+    font-size: 64px;
+}
+.pizaa{
+    background-color: brown;
+}
+.broccoli{
+   background-color: green; 
+}
+.a{
+   background-color: green; 
+}
+.circle{
+    border-radius: 10%;
+    color: red;
+}
+/* id bass seloctor  */
+#main-heading{
+    font-size: 48px;
+    color: darkolivegreen;
+}
